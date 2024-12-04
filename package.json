@@ -41,5 +41,9 @@
   "packageManager": "yarn@3.2.3",
   "engines": {
     "node": ">=18.18.0"
+  },
+  "dependencies": {
+    "comlink": "^4.4.2",
+    "o1js": "^2.*"
   }
 }
